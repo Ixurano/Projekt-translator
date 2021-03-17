@@ -1,0 +1,30 @@
+Grace Murray Hopper (9. joulukuuta 1906 – 1. tammikuuta 1992[1]) oli yhdysvaltalainen tietojenkäsittelyn tutkija ja laivaston lippueamiraali. Hän oli ensimmäinen Harvard Mark I -tietokoneen ohjelmoija ja kehitti ensimmäisen kääntäjän ohjelmointikielelle.
+
+Varhainen elämä ja opiskelu
+
+Hopperin alkuperäinen nimi oli Grace Brewster Murray. Hän meni naimisiin Vincent Hopperin kanssa 1930, mutta avioliitto päättyi eroon 1945. Hopper valmistui 1928 Vassar Collegesta kandidaatiksi pääaineinaan matematiikka ja fysiikka. Hän jatkoi opintojaan Yalen yliopistossa, josta valmistui 1930 maisteriksi samoista pääaineista. Vuonna 1934 Hopper väitteli filosofian tohtoriksi alanaan matematiikka. Hänen väitöskirjansa nimi oli New Types of Irreducibility Criteria. Opiskelun jälkeisen uransa Hopper aloitti matematiikan lehtorina Vassarissa 1931], ja vuonna 1941 hänestä tuli apulaisprofessori.
+Mark I ja Mark II
+
+Hopper liittyi 1943 Yhdysvaltain laivastoon. Hänet määrättiin työskentelemään Howard Aikenin kanssa Mark I -tietokoneella. Hopper oli ensimmäinen joka kirjoitti ohjelman laitteelle. Sodan lopulla hän jätti vakinaisen palveluksen ja siirtyi reserviin, mutta jatkoi silti työtään Mark II ja Mark III -tietokoneiden kehitystyössä. Mark II -koneen kanssa työskennellessään hän löysi koiperhosen laitteen releitten välistä; bugin tai virheen tietokoneessa. Hopper kertoi löydöstään laitteen lokikirjassa ja kiinnitti kuolleen eläimen siihen viitaten tapaukseen ensimmäisenä löytyneenä bugina. Virheellisesti tätä tapausta pidetään termin tietokonebugi alkuperäisenä lähteenä, sillä sitä käytettiin jo yleisesti tuohon aikaan.
+UNIVAC
+Vuonna 1949 Hopper siirtyi Eckert–Mauchly Computer Corporation -yhtiöön ja liittyi UNIVAC I -kehitystiimiin. 1950-luvulla yritys siirtyi Remington Rand -yhtiön omistukseen ja Randilla työskennellessään Hopper sai alkuperäisen kääntäjänsä valmiiksi. Myöhemmät versiot julkaistiin tuotenimillä ARITH-MATIC, MATH-MATIC ja FLOW-MATIC.
+
+COBOL
+Myöhemmin Hopper palasi laivaston palvelukseen, jossa työskenteli COBOL-ohjelmointikielelle tarkoitetun todennusohjelmiston ja kääntäjän parissa. COBOLin toiminnallisuudet oli määritellyt CODASYL-komitea, joka yhdisti FLOW-MATICiin piirteitä IBM:n vastaavasta ohjelmointikielestä COMTRANista. Ajatus ohjelmien ohjelmoinnista kielellä joka on lähempänä luonnollisia kieliä (englantia) kuin konekieltä oli Hopperin. Voidaankin sanoa COBOLin perustuvan paljolti Hopperin ajatuksiin.
+
+Standardit
+
+1970-luvulla Hopper teki uraauurtavaa työtä ottaessaan standardit käyttöön tietokoneiden ja erityisesti ohjelmointikielten, kuten COBOL ja FORTRAN, testauksessa. Laivaston tekemät yhteensopivuustestit johtivat ennen pitkää eri valmistajien omien ohjelmointikielten murteiden yhdenmukaistumiseen. Nämä kokeet ja niiden virallinen hallinnointi siirtyivät myöhemmin 1980-luvulla Kansalliselle standarditoimistolle, National Bureau of Standards, nykyiselle NISTille.
+Eläköityminen
+
+Hopper jäi eläkkeelle laivastosta komentajan arvoisena vuoden 1966 loppupuolella. Hänet kuitenkin kutsuttiin uudestaan vakinaiseen palvelukseen elokuussa 1967, ensin puoleksi vuodeksi, mikä myöhemmin muutettiin toistaiseksi voimassa olevaksi. Hopper jäi eläkkeelle uudestaan 1971, mutta häntä pyydettiin palaamaan palvelukseen jälleen 1972. Hänet ylennettiin kommodoriksi 1973.
+
+Kun kongressiedustaja Philip Crane näki Hopperin 60 minuuttia -ohjelmassa maaliskuussa 1983, Crane ehdotti lakia, joka johti Hopperin ylennykseen kommodoriksi presidentin erityismenettelyllä. Vuonna 1985 laivaston kommodorit nimettiin lippueamiraalin arvoisiksi. Hopper jäi eläkkeelle laivastosta 1986 vastoin omaa tahtoaan. Bostonissa hänen eläkkeellejäämistään juhlistaneessa tapahtumassa, joka pidettiin USS Constitution -aluksella, Hopperille myönnettiin Defense Distinguished Service -mitali, puolustusvoimain korkein kunnianosoitus. Jäädessään eläkkeelle hän oli vanhin laivaston upseeri ja palveli vanhimmalla laivaston aluksella.
+
+DEC palkkasi Hopperin vanhemmaksi konsultiksi, jona hän jatkoi kuolemaansa saakka 1992. Pääasiallisesti Hopper toimi hyväntahdon lähettiläänä, luennoiden tietokoneiden varhaisista ajoista, omasta urastaan ja siitä, että tietokonevalmistajien tulisi tehdä tietokoneiden käyttäminen helpommaksi. Useiden yliopistojen ja yritysten tiloissa pidetyt luennot päättyivät yleensä raikuviin aplodeihin. Luennoidessaan Hopper oli aina pukeutunut laivaston virka-asuunsa.
+
+Kuoltuaan Hopper haudattiin Arlingtonin sotilashautausmaalle täysin sotilaallisin kunnianosoituksin.
+
+Hopperin muistoa kunnioittaa muun muassa hänen mukaansa nimetty puisto Arlingtonissa Virginian osavaltiossa. Se sijaitsee Hopperin entisen asunnon edessä.
+
+Microsoftin naistyöntekijät ovat muodostaneet työntekijäyhteisön nimeltä "Hoppers", ja perustivat myös apurahan häntä kunnioittaakseen. Hoppers-ryhmään kuuluu yli 3 000 jäsentä maailmanlaajuisesti.

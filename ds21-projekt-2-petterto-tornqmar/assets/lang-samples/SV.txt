@@ -1,0 +1,26 @@
+Grace Hopper (född Murray), född den 9 december 1906 i New York, död den 1 januari 1992 i Arlington, Virginia, var en amerikansk dator-pionjär och sjöofficer (flottiljamiral). Hon var bland annat med och utvecklade Harvard Mark I och skapade den första kompilatorn. Hon populariserade användningen av programmeringsspråk som var oberoende av maskinen, något som ledde till utvecklingen av COBOL, ett högnivå programmeringsspråk som fortfarande används idag[1].
+
+Biografi
+
+Hopper ärvde sitt matematikintresse från sin mor Mary Van Horne och fattade tidigt intresse för maskiner i allmänhet, och senare för beräkningsautomater (datorer) i synnerhet.[2] 1924 började hon studera på Vassar College i Poughkeepsie. Hon avslutade sina studier i matematik och fysik på Yale University. Hon var sedan lärare i matematik på Vassar College och promoverade på Yale 1934.
+
+Hon blev tidigt reservofficer i USA:s flotta, och arbetade under andra världskriget med dess beräkningsautomater. Harvard Mark I (Automatic Sequence Controlled Calculator) utvecklades av Howard Aiken med stöd från Grace Hopper och finansiering från IBM och färdigställdes 1944. Den första – när det gäller utvecklingen av datorer – dokumenterade buggen hittades 9 september 1947 i en Mark II Aiken Relay Calculator av Hopper. Det var således Hopper som myntade begreppet "bugg" och som även löste densamma.[2] Hon var sedan verksam som forskare på Harvard och anställdes som matematiker på Eckert-Mauchly Computer Corporation (senare Remington Rand) och deltog i utvecklingen av datorerna Harvard Mark II och UNIVAC.
+
+I sitt arbete fann hon att det var onödigt arbetsamt att programmera beräkningsautomaterna och förespråkade utvecklandet av ett program som kunde översätta text till maskinkod, en så kallad kompilator, men mötte motstånd från sina kollegor som tyckte det var omöjligt eftersom datorer inte förstod engelska [3]. Hon arbetade vidare med sin idé och publicerade en rapport om kompilatorer [4]. Hennes Flow-Matic var den första kompilatorn som översatte engelska till maskinspråk, och blev klar 1954.[5]
+
+Under våren 1959 möttes datorexperter från industrin och staten under en konferens under två dagar som är känd som "Conference on Data Systems Languages" (CODASYL). Hopper var en teknisk konsult till kommittén och många av hennes gamla anställda arbetade på det nya språket COBOL (COmmon Business Oriented Language). Detta nya språk var i själva verket en expansion av Hoppers FLOW-MATIC. Den första versionen COBOL färdigställdes under 1959 och är ett av de mest använda språken på banker och myndigheter och för företags administrativa databehandling.[6]
+
+Senare återgick hon till flottan, där hon i en första fas arbetade till 1966, då hon pensionerades som kommendörkapten. Åtta månader senare återanställdes hon temporärt för en period om sex månader. Denna utökades emellertid ett flertal gånger, och hon blev inte slutgiltigt pensionerad förrän 14 augusti 1986, vid 79 års ålder. Hon övergick därefter till att arbeta vid Digital Equipment Corporation som seniorkonsult, en post hon behöll till strax före sin död.
+
+1985 befordrades hon till flottiljamiral (Rear Admiral, Lower Half).
+
+Utmärkelser (urval)
+
+1973 blev hon medlem (Distinguished Fellow) i British Computer Society.
+1980 blev hon hedersdoktor vid Linköpings universitet.
+Vid sin pensionering 1986 erhöll hon Defense Distinguished Service Medal, USA:s högsta fredstida militära utmärkelse.
+1996 uppkallades robotjagaren USS Hopper av Arleigh Burke-klass efter henne.
+Kvinnliga anställda vid Microsoft Corporation har bildat ett yrkesförbund, kallat "Hoppers", med över 3000 medlemmar i hela världen.
+
+Smeknamn
+Hon fick bland annat smeknamnen "Amazing Grace" och "Grandma Cobol".

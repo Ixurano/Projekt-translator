@@ -1,0 +1,11 @@
+Grace Murray Hopper (New York, 9 dicembre 1906 – Arlington, 1º gennaio 1992) è stata una matematica, informatica e militare statunitense definita da molti una pioniera della programmazione informatica.
+
+Biografia
+
+Grace Murray era la maggiore dei tre figli dei coniugi Walter Fletcher Murray e Mary Campbell Van Horne, che avevano origini scozzese e olandese e frequentavano la Chiesa Collegiata del West End.[1] Era una bambina curiosa, caratteristica che l'accompagnò tutta la sua vita, e amava scoprire il funzionamento dei congegni; a sette anni smontò una sveglia per studiarla senza poi riuscire a riassemblarla, arrivando ad aprirne sette, per il dispiacere di sua madre che limitò i suoi esperimenti ad un solo orologio.[2] All'età di 16 anni la sua domanda di ammissione anticipata al Vassar College fu respinta (i suoi voti in latino erano troppo bassi), ma fu ammessa l'anno seguente.
+
+Ottenne il Ph.D. in matematica nel 1934 a Yale, insegnando per i due anni successivi presso Vassar, per poi entrare a far parte della Riserva della Marina nel 1943. Famosa per il suo lavoro sul primo computer digitale della Marina, Harvard Mark I, fu assegnata presso l'ufficio per l'Ordenance Computation Project dell'università di Harvard.
+
+La sua brillante carriera ebbe nel 1949 un momento di grande prestigio quando entrò nella Eckert-Mauchly Computer Corporation, la società che aveva sviluppato l'ENIAC, fra i primi computer digitali in circolazione, e che in quel periodo stava progettando l'UNIVAC I, ovvero quello che sarebbe stato il primo modello di computer commerciale. Grace M. Hopper, lavorando sull'idea di compilatore (in particolare sull'A-0 System), ebbe un ruolo primario nello sviluppo e nella progettazione del COBOL.
+
+Continuò intensamente il suo lavoro di progettista e ricercatrice presso l'istituto e dopo essersi congedata dalla Riserva nel 1966 venne immediatamente richiamata per lavorare alla standardizzazione del linguaggio per i computer militari. Fu definitivamente congedata nel 1986 col grado di "rear admiral" (retroammiraglio o contrammiraglio). È famosa anche per aver diffuso l'uso del termine "bug" per indicare un malfunzionamento di un computer.

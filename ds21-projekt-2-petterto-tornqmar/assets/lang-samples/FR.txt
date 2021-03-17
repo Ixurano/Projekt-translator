@@ -1,0 +1,22 @@
+Grace Murray Hopper, née le 9 décembre 1906 à New York et morte le 1er janvier 1992 dans le comté d'Arlington, est une informaticienne américaine et Rear admiral (lower half) de la marine américaine. Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959.
+Jeunesse
+
+Grace Brewster Murray est née le 9 décembre 1906 à New York. Elle étudie les mathématiques, la physique et l'économie au Vassar College, et en sort diplômée en 1928. En 1934, elle obtient un doctorat en mathématiques de l'université Yale1,2.
+
+La jeune femme enseigne les mathématiques au Vassar College entre 1931 et 1944. Elle épouse en 1930 Vincent Hopper, un professeur de littérature. Le couple, qui n'a pas d'enfants, divorce en 19451.
+Carrière
+
+En 1943, Grace Hopper s'engage dans la marine américaine. Promue au grade de lieutenant, elle est affectée l'année suivante au Bureau of Ordnance Computation Project de l'université Harvard. Elle travaille dans l'équipe de Howard Aiken sur l'ordinateur Harvard Mark I. Elle fait partie du premier groupe, comptant trois personnes, apprenant à le programmer1.
+
+À la fin de la Seconde Guerre mondiale, elle quitte le service actif de la marine, mais continue à travailler au développement des ordinateurs Harvard Mark II puis Harvard Mark III pour le compte du Computation Laboratory d'Harvard1.
+
+En 1949, Grace Hopper est employée par Eckert-Mauchly Computer Corporation (en) (EMCC) et rejoint l'équipe développant UNIVAC I à Philadelphie. En 1950, la compagnie est rachetée par Remington Rand. Hopper conçoit l'année suivante le premier compilateur pour UNIVAC I, nommé A-0 System1.
+
+À partir de 1957, elle travaille pour IBM, où elle défend l'idée qu'un programme devrait pouvoir être écrit dans un langage proche de l'anglais plutôt que d'être calqué sur le langage machine, comme l'assembleur. De cette idée naît le langage COBOL en 1959.
+
+En 1966, conformément au règlement en vigueur, elle doit quitter la Navy après avoir atteint l'âge de 60 ans, mais est rappelée l'année suivante3. Au cours des années 1970, elle mène les travaux d'établissement de normes pour les ordinateurs, en particulier les premiers langages de programmation évolués : Fortran et COBOL.
+Grace Hopper au clavier de l'UNIVAC, vers 1960.
+
+Grace Hopper reste dans la Marine jusqu'en 1986, date à laquelle elle prend sa retraite avec le grade de Rear admiral (lower half). Elle est alors l'officier le plus âgé de la marine américaine4.
+
+Jusqu'à son décès en 1992, elle est employée comme consultante externe par Digital Equipment, pour des conférences sur les débuts de l'informatique3. Elle est enterrée avec les honneurs militaires au cimetière national d'Arlington5.
